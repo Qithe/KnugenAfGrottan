@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/OscarWolter/Documents/VS Projects/KaG/KaG/Content/images/world/backgrounds/BackgroundTiles.png</File>
+    <File>C:/Users/OscarWolter/Documents/VS Projects/KaG/KaG/Content/images/world/player/Player.png</File>
+    <File>C:/Users/OscarWolter/Documents/VS Projects/KaG/KaG/Content/images/world/props/Stone.png</File>
+    <File>C:/Users/OscarWolter/Documents/VS Projects/KaG/KaG/Content/images/world/text/EnterCombatText.png</File>
+    <File>C:/Users/OscarWolter/Documents/VS Projects/KaG/KaG/Content/images/menu/menuSprite/LoadGame.png</File>
+    <File>C:/Users/OscarWolter/Documents/VS Projects/KaG/KaG/Content/images/menu/menuSprite/Menu.png</File>
+    <File>C:/Users/OscarWolter/Documents/VS Projects/KaG/KaG/Content/images/menu/menuSprite/NewGame.png</File>
+    <File>C:/Users/OscarWolter/Documents/VS Projects/KaG/KaG/Content/images/menu/menuSprite/Quit.png</File>
+    <File>C:/Users/OscarWolter/Documents/VS Projects/KaG/KaG/Content/images/menu/menuSprite/SaveGame.png</File>
+    <File>C:/Users/OscarWolter/Documents/VS Projects/KaG/KaG/Content/images/combat/enemies/TrollKarl.png</File>
+    <File>C:/Users/OscarWolter/Documents/VS Projects/KaG/KaG/Content/images/combat/enemies/Wolf.png</File>
+    <File>C:/Users/OscarWolter/Documents/VS Projects/KaG/KaG/Content/images/combat/enemies/Wolf2.png</File>
+    <File>C:/Users/OscarWolter/Documents/VS Projects/KaG/KaG/Content/images/combat/playerSprite/Player.png</File>
+    <File>C:/Users/OscarWolter/Documents/VS Projects/KaG/KaG/Content/images/combat/props/Grass.png</File>
+    <File>C:/Users/OscarWolter/Documents/VS Projects/KaG/KaG/Content/images/combat/props/GrassBig.png</File>
+    <File>C:/Users/OscarWolter/Documents/VS Projects/KaG/KaG/Content/images/combat/text/BamEffect.png</File>
+    <File>C:/Users/OscarWolter/Documents/VS Projects/KaG/KaG/Content/images/combat/text/CombatText.png</File>
+  </SourceFiles>
+</SourceFileCollection>
