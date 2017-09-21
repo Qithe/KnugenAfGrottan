@@ -1,0 +1,13 @@
+To-do:
+  Fix graphics work
+  Make attacks and weapon its own objects
+    e.g. Sword is a child of bladeWeapons witch is a child of Weapon.
+    Sword may then create children of its own for diffrent types of 
+    swords(Shortsword, broadsword, longsword, etc) And each one of these
+    will carry atleast one attack function(if player/enemy has said item 
+    they will accses to the attack, if not the attack will be "greyed out"
+    All mobs(player Or enemy) will have a base weapon like fists or claws etc.
+
+In progress:
+
+Done:
